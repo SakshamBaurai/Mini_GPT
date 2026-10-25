@@ -1,4 +1,4 @@
-# Mini GPT --- Visual Recall Guide
+# Mini GPT --- Introduction Guide
 
 A concise, visual guide to how this from-scratch GPT-style language
 model works, written in plain English for quick revision.
