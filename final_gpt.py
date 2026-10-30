@@ -30,8 +30,8 @@ dropout = 0.2
 
 torch.manual_seed(1337)
 
-with open('/content/input.txt','r',encoding='utf-8') as f:
-    text = f.read()
+# Use the TinyStories dataset already loaded in the notebook
+# Do not reload input.txt
 
 # Unique characters will be listed here
 chars = sorted(list(set(text)))
